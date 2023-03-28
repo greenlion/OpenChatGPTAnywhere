@@ -1,4 +1,5 @@
 # OpenChatGPTAnywhere
+![Alt text](https://github.com/greenlion/OpenChatGPTAnywhere/raw/main/logo.jpg "logo")
 An open source implementation of ChatGPT anywhere
 
 Help support this project by using my Patreon.
