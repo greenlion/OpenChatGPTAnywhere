@@ -31,7 +31,7 @@
         }
     
         const result = await response.json();
-        console.log(result.choices[0].text.trim());
+        
         return result.choices[0].text.trim();
         
       } catch (error) {
