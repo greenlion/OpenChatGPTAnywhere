@@ -42,7 +42,7 @@
 
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
-  console.error(request);
+  //console.error(request);
   if (request.action === 'processQuery') {
     const query = request.query;
     
